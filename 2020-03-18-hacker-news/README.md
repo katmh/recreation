@@ -6,6 +6,15 @@ My first stream and (documented) attempt at re-creating websites ever! Thank you
 
 Website suggested by [Jamsheed Mistri](https://jmistri.com)
 
+**Wins**
+- Correctly guessed the typeface: Verdana
+
+**Lessons**
+- **Pay attention to block vs inline-block/inline elements**
+- Macs have a built-in color picker
+- I was going to make a triangle in CSS but then Jamsheed sent the triangle symbol in the stream chat ▲ 🙃
+- The navigation can be visually replicated with just a string in a `p` element
+
 ## Worked on the site for ~30 minutes before first preview, with some hints/tips from stream viewers
 
 ![First preview after ~30 minutes](result.png)
